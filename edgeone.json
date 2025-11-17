@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/shenglong/*",
-      "destination": "http://webapi.shenlongip.com/:splat"
+      "destination": "https://webapi.shenlongip.com/:splat"
     }
   ]
 }
