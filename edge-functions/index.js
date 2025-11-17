@@ -4,7 +4,7 @@
  */
 const ORIGIN_MAP = {
   '/emoticons': 'https://emoticons-cloudflare.hzchu.top',
-  '/shenlong':  'http://webapi.shenlongip.com',   // 新加的
+  '/shenlong':  'https://webapi.shenlongip.com',   // 新加的
   '/api':       'https://another.example.com',    // 以后继续加
 };
 
