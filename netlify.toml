@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/shenglong/*"
+  to = "http://webapi.shenlongip.com/:splat"
+  status = 200
+  force = true
