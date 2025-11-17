@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/shenglong/*",
+      "destination": "http://webapi.shenlongip.com/:splat"
+    }
+  ]
+}
